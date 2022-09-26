@@ -12,7 +12,7 @@ This website is for who wants to know more about me. Such as the HR, my new frie
 Screenshot:
 ![demo](gif/screenshot.gif)
 
-** Presentation: [2min presentation Google slides](https://docs.google.com/presentation/d/e/2PACX-1vQWI7onOb7Fjhm5yjWEheAAnja2KCDjf9PwKfnLMpOiJULX0ExAamYZN3hQLddnztMPy1u2Wey3iTro/pub?start=false&loop=false&delayms=15000) **
+## Presentation: [2min presentation Google slides](https://docs.google.com/presentation/d/e/2PACX-1vQWI7onOb7Fjhm5yjWEheAAnja2KCDjf9PwKfnLMpOiJULX0ExAamYZN3hQLddnztMPy1u2Wey3iTro/pub?start=false&loop=false&delayms=15000)
 
 Instruction to use: Open index.html in the browser
 
