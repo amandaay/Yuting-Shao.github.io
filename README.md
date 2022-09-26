@@ -3,6 +3,8 @@ A personal website of Yuting-Shao based on this [template](https://startbootstra
 
 Author: Yuting Shao
 
+[Author homepage](https://Yuting-Shao.github.io)
+
 Class Link: [NEU CS5610 - Web Development 2022 Fall](https://johnguerra.co/classes/webDevelopment_fall_2022/)
 
 Project Objective: This project is the personal homepage that is created using the bootstrap5.1.3. There are two pages: the home page and the projects page. 
