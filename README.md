@@ -20,4 +20,4 @@ Screenshot:
 
 Instruction to use: Open index.html in the browser
 
-Vedio demonstration: [3min video demo](https://youtu.be/I3WuSKsGE98)
+Video demonstration: [3min video demo](https://youtu.be/I3WuSKsGE98)
